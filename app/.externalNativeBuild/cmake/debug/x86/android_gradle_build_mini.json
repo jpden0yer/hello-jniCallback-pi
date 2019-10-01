@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\user\\Dropbox\\android\\new-comp\\add-pi-code\\hello-jniCallback-pi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build C:\\Users\\user\\Dropbox\\android\\new-comp\\add-pi-code\\hello-jniCallback-pi\\app\\.externalNativeBuild\\cmake\\debug\\x86 --target clean"
+  ],
+  "libraries": {
+    "hello-jnicallback-Debug-x86": {
+      "artifactName": "hello-jnicallback",
+      "buildCommand": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build C:\\Users\\user\\Dropbox\\android\\new-comp\\add-pi-code\\hello-jniCallback-pi\\app\\.externalNativeBuild\\cmake\\debug\\x86 --target hello-jnicallback",
+      "abi": "x86",
+      "output": "C:\\Users\\user\\Dropbox\\android\\new-comp\\add-pi-code\\hello-jniCallback-pi\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libhello-jnicallback.so"
+    }
+  }
+}

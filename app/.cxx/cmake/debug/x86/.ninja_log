@@ -1,0 +1,4 @@
+# ninja log v5
+0	11	0	clean	4a0ad9cce977d139
+6	2886	591596829	CMakeFiles/hello-jnicallback.dir/hello-jnicallback.c.o	82c2598cf521fd
+2887	3108	591596830	C:/Users/user/Dropbox/android/new-comp/add-pi-code/hello-jniCallback-pi/app/build/intermediates/cmake/debug/obj/x86/libhello-jnicallback.so	881a4e00e4ffe418
