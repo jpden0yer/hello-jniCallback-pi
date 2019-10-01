@@ -24,6 +24,11 @@
           "src": "C:\\Users\\user\\Dropbox\\android\\new-comp\\add-pi-code\\hello-jniCallback-pi\\app\\src\\main\\cpp\\hello-jnicallback.c",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\user\\Dropbox\\android\\new-comp\\add-pi-code\\hello-jniCallback-pi\\app\\src\\main\\cpp\\timer.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
         }
       ],
       "headers": [],

@@ -1,0 +1,16 @@
+# ninja log v5
+4	345	591599035	build.ninja	fc774f63cc0e6f31
+0	7	0	clean	4a0ad9cce977d139
+0	9	0	clean	4a0ad9cce977d139
+2	213	591599076	build.ninja	fc774f63cc0e6f31
+0	692	591599076	CMakeFiles/hello-jnicallback.dir/hello-jnicallback.c.o	cbfa879015371246
+0	12	0	clean	4a0ad9cce977d139
+0	9	0	clean	4a0ad9cce977d139
+4	165	591599409	CMakeFiles/hello-jnicallback.dir/hello-jnicallback.c.o	cbfa879015371246
+9	203	591599410	CMakeFiles/hello-jnicallback.dir/timer.c.o	cb6319347e938933
+204	501	591599410	C:/Users/user/Dropbox/android/new-comp/add-pi-code/hello-jniCallback-pi/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-jnicallback.so	f9a609d1ac58496c
+1	20	0	clean	4a0ad9cce977d139
+0	10	0	clean	4a0ad9cce977d139
+9	121	591599799	CMakeFiles/hello-jnicallback.dir/timer.c.o	cb6319347e938933
+5	146	591599799	CMakeFiles/hello-jnicallback.dir/hello-jnicallback.c.o	cbfa879015371246
+146	239	591599799	C:/Users/user/Dropbox/android/new-comp/add-pi-code/hello-jniCallback-pi/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-jnicallback.so	f9a609d1ac58496c

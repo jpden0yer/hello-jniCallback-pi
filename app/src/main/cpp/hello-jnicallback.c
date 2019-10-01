@@ -21,6 +21,7 @@
 #include <android/log.h>
 #include <assert.h>
 
+#include "global_includes.h"
 
 // Android log function wrappers
 static const char* kTAG = "hello-jniCallback";
@@ -52,6 +53,8 @@ TickContext g_ctx;
 JNIEXPORT jstring JNICALL
 Java_com_example_hellojnicallback_MainActivity_stringFromJNI( JNIEnv* env, jobject thiz )
 {
+
+    tmr_init(3);
 #if defined(__arm__)
     #if defined(__ARM_ARCH_7A__)
     #if defined(__ARM_NEON__)

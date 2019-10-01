@@ -9,19 +9,15 @@
   },
   {
     "level": "INFO",
-    "message": "- expected json C:\\Users\\user\\Dropbox\\android\\new-comp\\add-pi-code\\hello-jniCallback-pi\\app\\.cxx\\cmake\\release\\x86_64\\android_gradle_build.json file is not present, will remove stale json folder"
+    "message": "- a dependent build file changed"
   },
   {
     "level": "INFO",
-    "message": "- missing previous command file C:\\Users\\user\\Dropbox\\android\\new-comp\\add-pi-code\\hello-jniCallback-pi\\app\\.cxx\\cmake\\release\\x86_64\\build_command.txt, will remove stale json folder"
+    "message": "  - C:\\Users\\user\\Dropbox\\android\\new-comp\\add-pi-code\\hello-jniCallback-pi\\app\\src\\main\\cpp\\CMakeLists.txt"
   },
   {
     "level": "INFO",
-    "message": "- command changed from previous, will remove stale json folder"
-  },
-  {
-    "level": "INFO",
-    "message": "created folder \u0027C:\\Users\\user\\Dropbox\\android\\new-comp\\add-pi-code\\hello-jniCallback-pi\\app\\.cxx\\cmake\\release\\x86_64\u0027"
+    "message": "keeping json folder \u0027C:\\Users\\user\\Dropbox\\android\\new-comp\\add-pi-code\\hello-jniCallback-pi\\app\\.cxx\\cmake\\release\\x86_64\u0027 but regenerating project"
   },
   {
     "level": "INFO",

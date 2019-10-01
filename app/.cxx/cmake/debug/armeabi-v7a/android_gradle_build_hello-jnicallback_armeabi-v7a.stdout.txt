@@ -1,0 +1,4 @@
+ninja: Entering directory `C:\Users\user\Dropbox\android\new-comp\add-pi-code\hello-jniCallback-pi\app\.cxx\cmake\debug\armeabi-v7a'
+[1/3] Building C object CMakeFiles/hello-jnicallback.dir/timer.c.o
+[2/3] Building C object CMakeFiles/hello-jnicallback.dir/hello-jnicallback.c.o
+[3/3] Linking C shared library C:\Users\user\Dropbox\android\new-comp\add-pi-code\hello-jniCallback-pi\app\build\intermediates\cmake\debug\obj\armeabi-v7a\libhello-jnicallback.so
